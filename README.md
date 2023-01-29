@@ -7,5 +7,5 @@ Os dados usados para re-treinar a rede neural foram obtidos de um dataset do [Ka
 
 ![](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs40998-021-00426-9/MediaObjects/40998_2021_426_Fig10_HTML.png)
 
-## Resultados
-A precisão alcançada foi de 89% para o conjunto de teste, o que não é algo baixo uma vez que o conjunto de traino é razoavelmente pequeno. **dessa forma para tornar-mos esse modelo mais preciso e robusto devemos obter mais imagens de tumografias, de preferencia imagens provenientes de fontes diversas pois isso torna o modelo mais robusto à outliers** 
+i## Resultados
+A precisão alcançada foi de 89% para o conjunto de teste, o que não é algo baixo uma vez que o conjunto de traino é razoavelmente pequeno. **dessa forma para tornar-mos esse modelo mais preciso e robusto devemos obter mais imagens de tumografias, de preferencia imagens provenientes de fontes diversas pois isso torna o modelo mais robusto à outliers**. Ademais, poderiamos testar modelos que resaltam pixels isolados, como é o caso do modelo YOLO. 
